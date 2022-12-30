@@ -1,0 +1,56 @@
+10:40:09.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+10:40:09.232 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+10:40:09.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+10:40:09.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+10:40:09.700 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+10:40:10.131 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+10:40:20.483 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
+10:40:20.484 [main] WARN  testCases.TC_001_AccountRegistrationTest - customer registration is not successful 
+10:40:20.484 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed 
+10:41:19.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+10:41:19.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+10:41:19.369 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+10:41:19.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+10:41:19.765 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+10:41:20.296 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+10:41:30.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
+10:54:36.454 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+10:54:36.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+10:54:36.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+10:54:36.576 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+10:54:36.920 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+10:54:37.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+10:54:47.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
+10:54:47.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Finished TC_001_AccountRegistrationTest ******************
+10:55:59.887 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+10:55:59.891 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+10:55:59.917 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+10:56:00.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+10:56:00.468 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+10:56:00.983 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+10:56:11.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
+10:56:11.343 [main] WARN  testCases.TC_001_AccountRegistrationTest - customer registration is not successful 
+10:56:11.343 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed 
+10:56:11.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Finished TC_001_AccountRegistrationTest ******************
+10:56:40.804 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+10:56:40.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+10:56:40.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+10:56:40.902 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+10:56:41.293 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+10:56:41.704 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+10:56:52.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
+10:56:52.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Finished TC_001_AccountRegistrationTest ******************
+10:57:57.126 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+10:57:57.131 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+10:57:57.148 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+10:57:57.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+10:57:57.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+10:57:58.178 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+10:58:08.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
+11:00:13.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************************************************
+11:00:13.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************ Starting TC_001_AccountRegistrationTest *****************
+11:00:13.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Account Link
+11:00:13.971 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on My Registration Link
+11:00:14.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer Details
+11:00:14.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue button
+11:00:25.109 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifying Customer Registration
